@@ -1,0 +1,5 @@
+Creating Whatsapp Application:
+1. code for populating chat.
+2. code for DP change.
+3. code for settings change.
+4. code for initiate chat.
